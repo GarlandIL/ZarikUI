@@ -10,7 +10,7 @@ ZarikUI provides accessible, reusable UI components for building trusted, inclus
 
 > ZarikUI provides accessible, reusable UI components for building trusted, inclusive digital services across Africa.
 
-This library is a personal creative project born from the belief that every citizen deserves a clear, dignified interaction with their government, regardless of device or ability. It draws inspiration from the visual warmth of African landscapes and textiles, and the rigorous accessibility standards of systems like the UK's GOV.UK and the US Web Design System.
+This library is a personal creative project born from the belief that every citizen deserves a clear, dignified interaction with their government, regardless of device or ability.
 
 ---
 
